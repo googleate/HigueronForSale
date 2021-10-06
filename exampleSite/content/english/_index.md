@@ -69,23 +69,24 @@ funfacts:
     name: Year of completion
     count: "2024"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Mr Jones
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
+    designation: Clients
+    content: 'We can not thank Ryan enough, he was there for us during the whole of
+      our viewing trip, nothing was too much trouble. We are delighted with our new
+      property.
+
+'
+  - name: Rober Mclarrie
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
+    designation: Client
+    content: We had such outstanding service from Lorrainne and Nathalie, we did not
+      hesitate to recommend this company to our friends.
+  - name: Nicola Taylor
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Client
+    content: |-
+      Nathalie made the whole experience fun, not only do we now have a beautiful
+      apartment, we know all the best restaurants and places to visit :)
 
 ---
