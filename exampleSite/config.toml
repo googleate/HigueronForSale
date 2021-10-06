@@ -72,9 +72,9 @@ location = "Fuengirola, Costa del Sol"
 phone = "+34 951 203 716"
 [params.contact.form]
 action = "#"
-enable = true
+enable = false
 success_image = "images/paper-plane.svg"
-use_netlify = true
+use_netlify = false
 [params.cookies]
 enable = true
 expire_days = 2
