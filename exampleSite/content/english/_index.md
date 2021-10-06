@@ -62,7 +62,7 @@ funfacts:
   - icon: ion-ios-glasses-outline
     name: Website visitors
     count: "1355"
-  - icon: ion-ios-alert-outline
+  - icon: ion-ios-heart-outline
     name: Contacts
     count: "125"
   - icon: ion-ios-timer-outline
