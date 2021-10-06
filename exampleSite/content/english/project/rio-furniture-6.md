@@ -1,7 +1,7 @@
 ---
 title: Virtual Maquette
 description: Virtual Maquette of Lomas Higueron
-image: images/portfolio/work6.jpg
+image: "/images/maqueta.jpg"
 bg_image: images/feature-bg.jpg
 category: Virtual
 information:
@@ -19,4 +19,6 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Virtual Maquette 
+## Virtual Maquette
+
+##  
