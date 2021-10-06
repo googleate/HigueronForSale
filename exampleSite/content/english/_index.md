@@ -26,19 +26,15 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: CONTACT OUE SALES OFFICE
+  content: |-
+    Our team of property coordinators are happy to answer any questions you have, any time of the day.
+
+    We offer about 1200 properties specializing in Higueron and the surrounding areas. Through close links with developers, local and national banks and individual owners we are able to source the very best properties. We update our portfolio on a daily basis and distressed sales to make sure that our clients get the very best deals available.
   button:
     enable: true
-    label: View Works
-    link: project
+    label: Contact
+    link: contact
 service:
   enable: true
 cta:
