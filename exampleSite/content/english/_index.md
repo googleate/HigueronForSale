@@ -50,11 +50,11 @@ cta:
 funfacts:
   enable: true
   title: About Lomas del Higueron
-  description: Discover a different, consolidated and cosmopolitan lifestyle. Just
-    15 minutes from Malaga International Airport and 20 minutes from Marbella, we
-    offer you proximity to the most important points of the Costa del Sol; truly live
-    the essence of the Mediterranean. <br> Everything is within your reach at Las
-    Lomas del Higuerón. More than 320 days of sunshine a year will do the rest.
+  description: Discover a different, consolidated and cosmopolitan lifestyle. <br>
+    Just 15 minutes from Malaga International Airport and 20 minutes from Marbella,
+    we offer you proximity to the most important points of the Costa del Sol. <br>
+    Everything is within your reach at Las Lomas del Higuerón. More than 320 days
+    of sunshine a year will do the rest.
   funfact_item:
   - icon: ion-ios-home-outline
     name: Properties available
