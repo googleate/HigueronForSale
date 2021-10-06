@@ -36,7 +36,7 @@ portfolio:
     label: Contact
     link: contact
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
