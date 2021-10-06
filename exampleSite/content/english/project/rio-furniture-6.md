@@ -1,22 +1,16 @@
 ---
-title: Virtual Maquette
-description: Virtual Maquette of Lomas Higueron
+title: Virtual Model
+description: Virtual Model of Lomas Higueron
 image: "/images/maqueta.jpg"
-bg_image: images/feature-bg.jpg
+bg_image: "/images/maqueta.jpg"
 category: Virtual
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Architect
+  info: Ismael Merida
+- label: 3D Model
+  info: Virtual 360º Model of Lomas del Higueron
 - label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+  info: "2024"
 
 ---
 ## Virtual Maquette
