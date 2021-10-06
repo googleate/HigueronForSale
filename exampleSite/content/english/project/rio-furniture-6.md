@@ -14,5 +14,3 @@ information:
 
 ---
 ## Virtual Model
-
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBPyNqruHh0Y6ZFhqS0GM2cf024yX8_LQ2cMYoKhedeaJYOw/viewform?embedded=true" width="640" height="1382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
