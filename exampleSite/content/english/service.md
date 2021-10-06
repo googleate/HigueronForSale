@@ -76,9 +76,5 @@ service:
       tempor incididunt ut
 cta:
   enable: true
-menu:
-  main:
-    parent: More
-    weight: 1
 
 ---

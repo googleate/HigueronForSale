@@ -9,6 +9,6 @@ menu:
     weight: 3
   main:
     name: Contact
-    weight: 25
+    weight: 3
 
 ---
