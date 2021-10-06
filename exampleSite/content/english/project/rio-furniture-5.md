@@ -1,7 +1,7 @@
 ---
 title: Plans 2 Bedrooms Apartment
 description: New Development Lomas del Higueron Plans
-image: "/images/plan.jpg"
+image: "/images/plan-2-bed.jpg"
 bg_image: "/images/slide.jpg"
 category: Illustration
 information:
