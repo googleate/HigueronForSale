@@ -23,10 +23,8 @@ copyright = "Copyright &copy; 2021 HigueronForSale.com. All Rights Reserved."
 languageCode = "en-US"
 languageName = "English"
 weight = "1"
-[[languages.en.menu.main]]
-hasChildren = ""
-name = "Contact"
-weight = ""
+[languages.en.menu]
+main = []
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
