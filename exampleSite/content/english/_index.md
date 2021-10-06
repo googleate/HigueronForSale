@@ -12,16 +12,17 @@ banner:
 about:
   enable: true
   title: The Project
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Completely new concept of a residential complex, conceived to meet
+    the expectations of all owners, where every last detail has been taken care of.
+  content: This project have been set in one of the best locations of Costa del Sol,
+    integrating the communal areas and vegetation where the outdoor areas flow seamlessly
+    between homes. At the same time, each plot will be an enclosed area with security
+    to offer you privacy and intimacy.
   image: images/plan.jpg
+  button:
+    enable: true
+    label: Plans
+    link: project
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
