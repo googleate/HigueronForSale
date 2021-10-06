@@ -8,7 +8,7 @@ information:
 - label: Architect
   info: Ismael Merida
 - label: 3D Model
-  info: Virtual 360º Model of Lomas del Higueron
+  info: Virtual 360º
 - label: Completed on
   info: "2024"
 
