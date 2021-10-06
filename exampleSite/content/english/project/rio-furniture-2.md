@@ -19,6 +19,4 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Plans 3 Bedrooms Apartment
-
-![](/images/plan-3-bed.jpg)
+## 

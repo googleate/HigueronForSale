@@ -19,6 +19,3 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Plans 2 Bedrooms Apartment
-
-![](/images/plan-2-bed.jpg)
