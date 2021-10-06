@@ -78,7 +78,7 @@ funfacts:
 
 '
   - name: Rober Mclarrie
-    image: images/clients/avater-1.jpg
+    image: "/images/clients/avater-2.jpg"
     designation: Client
     content: We had such outstanding service from Lorrainne and Nathalie, we did not
       hesitate to recommend this company to our friends.
