@@ -40,13 +40,12 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Contac us
+  content: Our team of property coordinators are happy to answer any questions you
+    have, any time of the day.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Contact
     link: contact
 funfacts:
   enable: true
