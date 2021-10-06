@@ -21,4 +21,4 @@ information:
 ---
 ## Plans 2 Bedrooms Apartment
 
-![](/images/plan.jpg)
+![](/images/plan-2-bed.jpg)
