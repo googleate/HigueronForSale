@@ -13,6 +13,6 @@ information:
   info: "2024"
 
 ---
-## Virtual Maquette
+## Virtual Model
 
-##  
+## 
