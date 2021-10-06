@@ -18,7 +18,7 @@ about:
     integrating the communal areas and vegetation where the outdoor areas flow seamlessly
     between homes. At the same time, each plot will be an enclosed area with security
     to offer you privacy and intimacy.
-  image: images/plan.jpg
+  image: "/images/maqueta.jpg"
   button:
     enable: true
     label: Plans
