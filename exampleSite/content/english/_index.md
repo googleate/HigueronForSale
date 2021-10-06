@@ -49,10 +49,12 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: About Lomas del Higueron
+  description: Discover a different, consolidated and cosmopolitan lifestyle. Just
+    15 minutes from Malaga International Airport and 20 minutes from Marbella, we
+    offer you proximity to the most important points of the Costa del Sol; truly live
+    the essence of the Mediterranean. <br> Everything is within your reach at Las
+    Lomas del Higuerón. More than 320 days of sunshine a year will do the rest.
   funfact_item:
   - icon: ion-ios-home-outline
     name: Properties available
