@@ -3,7 +3,7 @@ title: Gallery For Lomas 4
 description: Rendered Pictures
 image: "/images/higueronlomas15.jpg"
 bg_image: "/images/higueronlomas16.jpg"
-category: Video
+category: Renders
 information:
 - label: Category
   info: Renders
