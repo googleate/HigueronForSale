@@ -23,8 +23,17 @@ copyright = "Copyright &copy; 2021 HigueronForSale.com. All Rights Reserved."
 languageCode = "en-US"
 languageName = "English"
 weight = "1"
-[languages.en.menu]
-main = []
+[[languages.en.menu.main]]
+hasChildren = ""
+name = "Pricing"
+weight = ""
+[[languages.en.menu.main]]
+hasChildren = ""
+name = "Project"
+weight = ""
+[[languages.en.menu.main]]
+hasChildren = ""
+name = "Contact"
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
@@ -51,31 +60,6 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
-[[menu.footer]]
-name = "Pricing"
-url = "https://higueronforsale.com/pricing/"
-weight = 2
-[[menu.footer]]
-name = "Project"
-url = "https://higueronforsale.com/project/"
-weight = 1
-[[menu.footer]]
-name = "Contact"
-url = "https://higueronforsale.com/contact/"
-weight = 3
-[[menu.main]]
-name = "Pricing"
-parent = "More"
-url = "https://higueronforsale.com/pricing/"
-weight = 1
-[[menu.main]]
-name = "Project"
-url = "https://higueronforsale.com/project/"
-weight = 2
-[[menu.main]]
-name = "Contact"
-url = "https://higueronforsale.com/contact/"
-weight = 3
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
