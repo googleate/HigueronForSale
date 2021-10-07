@@ -9,7 +9,7 @@ pricing:
   - name: Lomas 3 Building
     price: 265.000€
     content: List of properties available
-    link: contact
+    link: https://higueronforsale.com/contact/
     services:
     - Garden Villa 2Beds 2Baths 106m2 for 265.000€
     - Garden Villa 3Beds 3Baths 164m2 for 420.000€
