@@ -7,8 +7,8 @@ banner:
   content: 2 bedrooms | From 265.000 € <br/> 3 bedrooms | From 375.000 €
   button:
     enable: true
-    label: Discover the Project
-    link: project
+    label: Properties available
+    link: pricing
 about:
   enable: true
   title: The Project
