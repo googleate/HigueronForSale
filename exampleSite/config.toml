@@ -61,18 +61,8 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
-[[menu.main]]
-name = "Project"
-url = "https://higueronforsale.com/project/"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "https://higueronforsale.com/contact/"
-weight = 2
-[[menu.main]]
-name = "Pricing"
-url = "https://higueronforsale.com/pricing/"
-weight = 3
+[menu]
+main = []
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
