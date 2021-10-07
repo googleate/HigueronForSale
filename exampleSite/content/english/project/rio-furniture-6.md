@@ -10,7 +10,7 @@ information:
 - label: 3D Model
   info: Virtual 360º
 - label: Completed on
-  info: "2024"
+  info: "2023"
 
 ---
 ## Virtual Model
