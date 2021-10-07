@@ -58,7 +58,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
-        <h2 class="section-subtitle"> ABOUT THE PROJECT </h2>
+        {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}
         {{ if .enable }}
@@ -115,7 +115,7 @@
           <div class="testimonial-slider owl-carousel">
             {{ range .testimonial_slider }}
             <div>
-              <i class="ion-quote"></i>
+              <i class="fas fa-quote-left"></i>
               {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
               <div class="user">
                 <img src="{{ .image | relURL }}" alt="client">
