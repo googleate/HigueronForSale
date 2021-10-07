@@ -17,10 +17,10 @@ pricing:
     - First Floor 3Beds 3Baths apt. 129m2 for 395.000€
     - Penthouse 2Beds 2Baths 180m2 for 625.000€
     - Penthouse 3Beds 3Baths 204m2 for 625.000€
-  - name: Premium
-    price: "$199"
+  - name: Lomas 4 Building
+    price: 275.000€
     content: Suitable for small businesses with up to 5 employees
-    link: "#"
+    link: https://higueronforsale.com/contact/
     services:
     - Unlimited agents
     - 10 PSD Design
