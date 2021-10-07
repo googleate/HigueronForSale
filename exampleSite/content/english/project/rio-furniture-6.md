@@ -3,7 +3,7 @@ title: Virtual Model
 description: Virtual Model of Lomas Higueron
 image: "/images/maqueta.jpg"
 bg_image: "/images/maqueta.jpg"
-category: Virtual
+category: Model
 information:
 - label: Architect
   info: Ismael Merida
