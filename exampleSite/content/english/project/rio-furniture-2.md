@@ -3,7 +3,7 @@ title: Plans 3 Bedrooms Apartment
 description: Lomas del Higueron New Development plans
 image: "/images/plan.jpg"
 bg_image: "/images/slide.jpg"
-category: Illustration
+category: Plans
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -19,4 +19,4 @@ information:
   info: Jannie Kelonsky
 
 ---
-## 
+##
