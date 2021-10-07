@@ -45,6 +45,6 @@ cta:
   button:
     enable: true
     label: Contact
-    link: contact
+    link: https://higueronforsale.com/contact/
 
 ---
