@@ -34,6 +34,7 @@ weight = "https://higueronforsale.com/project/"
 [[languages.en.menu.main]]
 hasChildren = ""
 name = "Contact"
+weight = "https://higueronforsale.com/contact/"
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
