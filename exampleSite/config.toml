@@ -117,7 +117,7 @@ name = "Über uns"
 weight = 7
 [[menu.main]]
 name = "Kontakt"
-weight = 17
+weight = 16
 [[menu.main]]
 name = "Häufige Fragen"
 parent = "Mehr"
@@ -141,7 +141,7 @@ name = "Chi siamo"
 weight = 9
 [[menu.main]]
 name = "Contatta"
-weight = 18
+weight = 17
 [[menu.main]]
 name = "Domande frequenti"
 parent = "Più"
@@ -157,10 +157,6 @@ weight = 15
 name = "Servizio"
 parent = "Più"
 weight = 5
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-weight = 16
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
