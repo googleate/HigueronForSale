@@ -26,7 +26,7 @@ weight = "1"
 [[languages.en.menu.main]]
 hasChildren = ""
 name = "Pricing"
-weight = ""
+weight = "https://higueronforsale.com/pricing/"
 [[languages.en.menu.main]]
 hasChildren = ""
 name = "Project"
