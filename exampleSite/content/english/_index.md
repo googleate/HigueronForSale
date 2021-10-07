@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/higueronlomas15.jpg"
-  bg_overlay: false
+  bg_overlay: true
   title: Lomas del Higueron <br/> More than a home
   content: 2 bedrooms | From 265.000 € <br/> 3 bedrooms | From 375.000 €
   button:
