@@ -12,7 +12,7 @@ information:
 - label: Architect
   info: Ismael Merida
 - label: Completed on
-  info: "2024"
+  info: "2023"
 
 ---
 ![](/images/higueronlomas6.jpg)![](/images/higueronlomas7.jpg)![](/images/higueronlomas1.jpg)![](/images/higueronlomas8.jpg)![](/images/higueronlomas.jpg)![](/images/higueronlomas9.jpg)![](/images/higueronlomas4.jpg)![](/images/higueronlomas10.jpg)
