@@ -1,32 +1,18 @@
 ---
-title: Gallery
+title: Gallery For Lomas 3
 description: Rendered Pictures
-image: "/images/higueron_lomas3_jardin_piscina_hd.jpg"
-bg_image: "/images/higueron_lomas3_jardin_piscina_hd.jpg"
-category: UI/UX Design
+image: "/images/higueronlomas6.jpg"
+bg_image: "/images/higueronlomas1.jpg"
+category: Renders
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Category
+  info: Renders
+- label: Building
+  info: Lomas 3
+- label: Architect
+  info: Ismael Merida
 - label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+  info: "2024"
 
 ---
-## Rendered Pictures![](/images/higueron_lomas3_acceso_alta2.jpg)![](/images/higueron_lomas3_bloquebajo_alta2.jpg)
-
-![](/images/higueron_lomas3_dormitorioppal_02_hd.jpg)
-
-![](/images/higueronlomas3-bano_hd.jpg)
-
-![](/images/higueronlomas3-cocina_hd.jpg)
-
-![](/images/higueron_lomas3_terraza_hd.jpg)
-
-![](/images/higueron_lomas3_jardin_alta2.jpg)![](/images/higueron_lomas3_piscinavistas_hd.jpg)![](/images/higueron_lomas3_coworking_hd.jpg)
+![](/images/higueronlomas6.jpg)![](/images/higueronlomas7.jpg)![](/images/higueronlomas1.jpg)![](/images/higueronlomas8.jpg)![](/images/higueronlomas.jpg)![](/images/higueronlomas9.jpg)![](/images/higueronlomas4.jpg)![](/images/higueronlomas10.jpg)
