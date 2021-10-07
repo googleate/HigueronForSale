@@ -12,11 +12,11 @@ pricing:
     link: contact
     services:
     - Garden Villa 2Beds 2Baths 106m2 for 265.000€
+    - Garden Villa 3Beds 3Baths 164m2 for 420.000€
     - First Floor apt. 2Beds 2Baths 106m2 for 265.000€
     - First Floor 3Beds 3Baths apt. 129m2 for 395.000€
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Penthouse 2Beds 2Baths 180m2 for 625.000€
+    - Penthouse 3Beds 3Baths 204m2 for 625.000€
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
