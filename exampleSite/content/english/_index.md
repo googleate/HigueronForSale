@@ -26,7 +26,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: CONTACT OUE SALES OFFICE
+  title: CONTACT OUR SALES OFFICE
   content: |-
     Our team of property coordinators are happy to answer any questions you have, any time of the day.
 
@@ -34,7 +34,7 @@ portfolio:
   button:
     enable: true
     label: Contact
-    link: contact
+    link: https://higueronforsale.com/project/
 service:
   enable: false
 cta:
