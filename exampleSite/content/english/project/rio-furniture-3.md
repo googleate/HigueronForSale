@@ -12,7 +12,7 @@ information:
 - label: Architect
   info: Ismael Merida
 - label: Completed on
-  info: "2024"
+  info: "2023"
 
 ---
 ## Renders of Lomas 4
