@@ -58,16 +58,16 @@ funfacts:
   funfact_item:
   - icon: ion-ios-home-outline
     name: Properties available
-    count: "347"
+    count: '347'
   - icon: ion-ios-glasses-outline
     name: Website visitors
-    count: "1355"
+    count: '1355'
   - icon: ion-ios-heart-outline
     name: Contacts
-    count: "125"
+    count: '125'
   - icon: ion-ios-timer-outline
     name: Year of completion
-    count: "2024"
+    count: '2024'
   testimonial_slider:
   - name: Mr Jones
     image: images/clients/avater-1.jpg
@@ -88,5 +88,8 @@ funfacts:
     content: |-
       Nathalie made the whole experience fun, not only do we now have a beautiful
       apartment, we know all the best restaurants and places to visit :)
+bg_image: "/images/higueronlomas7.jpg"
+title: Lomas del Higueron
+description: New Development ready for 2024
 
 ---
