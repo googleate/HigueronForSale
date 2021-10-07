@@ -1,19 +1,19 @@
 ---
-title: Our Pricing
-description: this is meta description
+title: Prices
+description: V.A.T not included in the price (10%)
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Basic
-    price: "$99"
-    content: Perfect for single freelancers who work by themselves
-    link: "#"
+  - name: Lomas 3 Building
+    price: 265.000€
+    content: List of properties available
+    link: contact
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
+    - Garden Villa 2Beds 2Baths 106m2 for 265.000€
+    - First Floor apt. 2Beds 2Baths 106m2 for 265.000€
+    - First Floor 3Beds 3Baths apt. 129m2 for 395.000€
     - Basic SEO
     - Email Marketing
     - 24/7 Tech Support
@@ -41,13 +41,10 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
-menu:
-  footer:
-    name: Pricing
-    weight: 2
-  main:
-    name: Pricing
-    parent: More
-    weight: 1
+  title: Contac us
+  button:
+    enable: true
+    label: Contact
+    link: contact
 
 ---
