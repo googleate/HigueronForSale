@@ -90,6 +90,6 @@ funfacts:
       apartment, we know all the best restaurants and places to visit :)
 bg_image: "/images/higueronlomas7.jpg"
 title: Lomas del Higueron
-description: New Development ready for 2024
+description: New Development ready for 2023
 
 ---
