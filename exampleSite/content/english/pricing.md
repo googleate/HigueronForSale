@@ -19,15 +19,15 @@ pricing:
     - Penthouse 3Beds 3Baths 204m2 for 625.000€
   - name: Lomas 4 Building
     price: 275.000€
-    content: Suitable for small businesses with up to 5 employees
+    content: ''
     link: https://higueronforsale.com/contact/
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Garden Villa 2Beds 2Baths 169m2 for 275.000€
+    - Garden Villa 3Beds 3Baths 179m2 for 375.000€
+    - First floor apt. 2Beds 2Baths 137m2 for 275.000€
+    - First floor apt. 3Beds 3Baths 175m2 for 525.000€
+    - Penthouse 2Beds 2Baths 273m2 for 625.000€
+    - Penthouse 3Beds 3Baths 307m2 for 725.000€
   - name: Advance
     price: "$299"
     content: Suitable for large businesses with unlimited employees
