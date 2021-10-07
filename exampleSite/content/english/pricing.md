@@ -28,17 +28,15 @@ pricing:
     - First floor apt. 3Beds 3Baths 175m2 for 525.000€
     - Penthouse 2Beds 2Baths 273m2 for 625.000€
     - Penthouse 3Beds 3Baths 307m2 for 725.000€
-  - name: Advance
-    price: "$299"
-    content: Suitable for large businesses with unlimited employees
-    link: "#"
+  - name: About closing costs
+    price: 15.000€
+    content: 'Deposit '
+    link: https://higueronforsale.com/contact/
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - 'CONTRACT: 20% (Estimated: 30 days)'
+    - '1º PAYMENT: 10%'
+    - 'DELIVERY: 70% - Deposit'
+    - V.A.T. NOT INCLUDED IN THE PRICE (10%)
 cta:
   enable: true
   title: Contac us
